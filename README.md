@@ -3,6 +3,6 @@
 ### include
 * name
 * age
-* telephone number
 * sex
+* telephone number
 * address
