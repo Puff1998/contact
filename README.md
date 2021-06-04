@@ -1,7 +1,7 @@
 # contact
-A contact by C program
-Dynamic save  friends' information
-include
+## A contact by C program
+## Dynamic save  friends' information
+## include
 * name
 * age
 * telephone number
